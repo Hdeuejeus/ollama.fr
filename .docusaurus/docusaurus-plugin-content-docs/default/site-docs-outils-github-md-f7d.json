@@ -1,0 +1,24 @@
+{
+  "id": "outils/github",
+  "title": "github",
+  "description": "",
+  "source": "@site/docs/outils/github.md",
+  "sourceDirName": "outils",
+  "slug": "/outils/github",
+  "permalink": "/docs/outils/github",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/outils/github.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rag",
+    "permalink": "/docs/En-savoir-plus/rag"
+  },
+  "next": {
+    "title": "python",
+    "permalink": "/docs/outils/python"
+  }
+}

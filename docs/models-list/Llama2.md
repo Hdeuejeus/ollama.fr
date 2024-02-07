@@ -16,3 +16,10 @@ chercheurs à la recherche en intelligence artificielle (AI) de Facebook. Voici 
 4. ***Partenariat avec Microsoft** : Meta s’est associé à Microsoft pour fournir une infrastructure informatique clé et un support via Azure et Windows, permettant aux développeurs du monde entier de tirer parti du nouveau LLM.*
 
 *Pour obtenir plus d'informations rendez-vous sur le [site](https://llama.meta.com/) de llama ou sur le [projet github](https://github.com/facebookresearch/llama)*
+
+
+# Quelques points
+
+1. *Plusieurs variantes de Llama2 sont disponibles, **7b, 13b et 70b**, ce qui offre une **flexibilité** en fonction des ressources de calcul et des besoins en précision. Ces chiffres (7b, 13b, 70b) représentent le nombre de **paramètres** que le modèle utilise pour comprendre et générer du texte.*
+
+2. *Mais ilx existent également différents modèles prenant la puissance de **llama2** comme par exemple "**llama2-uncensored**" qui permet une utilisation, comme son nom l'indique, **sans censure***

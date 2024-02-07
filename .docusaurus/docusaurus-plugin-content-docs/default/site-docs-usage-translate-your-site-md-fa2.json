@@ -1,0 +1,27 @@
+{
+  "id": "usage/translate-your-site",
+  "title": "Translate your site",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs/usage/translate-your-site.md",
+  "sourceDirName": "usage",
+  "slug": "/usage/translate-your-site",
+  "permalink": "/docs/usage/translate-your-site",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/usage/translate-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/usage/manage-docs-versions"
+  },
+  "next": {
+    "title": "En savoir plus",
+    "permalink": "/docs/category/en-savoir-plus"
+  }
+}

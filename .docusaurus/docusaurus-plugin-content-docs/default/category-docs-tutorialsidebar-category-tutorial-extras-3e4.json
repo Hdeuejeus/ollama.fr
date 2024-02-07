@@ -1,15 +1,15 @@
 {
-  "title": "Tutorial - Extras",
+  "title": "Usage",
   "slug": "/category/tutorial---extras",
   "permalink": "/docs/category/tutorial---extras",
   "navigation": {
     "previous": {
-      "title": "Llama2-uncensored",
-      "permalink": "/docs/models-list/llama2-uncensored"
+      "title": "Mixtral",
+      "permalink": "/docs/models-list/Mixtral"
     },
     "next": {
       "title": "Manage Docs Versions",
-      "permalink": "/docs/tutorial-extras/manage-docs-versions"
+      "permalink": "/docs/usage/manage-docs-versions"
     }
   }
 }

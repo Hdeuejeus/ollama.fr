@@ -11,11 +11,6 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "En-savoir-plus/Github",
-              "path": "/docs/En-savoir-plus/Github",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "En-savoir-plus/glossaire",
               "path": "/docs/En-savoir-plus/glossaire",
               "sidebar": "tutorialSidebar"
@@ -26,8 +21,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "En-savoir-plus/Paramètres",
+              "path": "/docs/En-savoir-plus/Paramètres",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "En-savoir-plus/Quantization",
               "path": "/docs/En-savoir-plus/Quantization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "En-savoir-plus/rag",
+              "path": "/docs/En-savoir-plus/rag",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -36,13 +41,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "models-list/Llama2",
-              "path": "/docs/models-list/Llama2",
+              "id": "models-list/ecole",
+              "path": "/docs/models-list/ecole",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "models-list/llama2-uncensored",
-              "path": "/docs/models-list/llama2-uncensored",
+              "id": "models-list/Général",
+              "path": "/docs/models-list/Général",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models-list/image",
+              "path": "/docs/models-list/image",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models-list/Llama2",
+              "path": "/docs/models-list/Llama2",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -51,8 +66,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "models-list/Médecin",
+              "path": "/docs/models-list/Médecin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models-list/medllama2",
+              "path": "/docs/models-list/medllama2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "models-list/Mixtral",
               "path": "/docs/models-list/Mixtral",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models-list/texte",
+              "path": "/docs/models-list/texte",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -61,13 +91,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "outils/Github",
+              "path": "/docs/outils/Github",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "outils/python",
+              "path": "/docs/outils/python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Usage/chatbox",
+              "path": "/docs/Usage/chatbox",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Usage/Entrainer un modèle",
+              "path": "/docs/Usage/Entrainer un modèle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Usage/Import Modèle",
+              "path": "/docs/Usage/Import Modèle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Usage/ModelFile",
+              "path": "/docs/Usage/ModelFile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Usage/vs code",
+              "path": "/docs/Usage/vs code",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -76,8 +131,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "/category/usage",
+              "path": "/docs/category/usage",
               "sidebar": "tutorialSidebar"
             },
             {

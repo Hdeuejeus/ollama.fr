@@ -1,0 +1,23 @@
+{
+  "id": "ModelFile",
+  "title": "ModelFile",
+  "description": "",
+  "source": "@site/docs/ModelFile.md",
+  "sourceDirName": ".",
+  "slug": "/ModelFile",
+  "permalink": "/docs/ModelFile",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ModelFile.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rag",
+    "permalink": "/docs/En-savoir-plus/rag"
+  }
+}

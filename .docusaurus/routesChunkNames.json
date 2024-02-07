@@ -186,17 +186,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-611": {
+  "/docs-4f8": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-92-c-f19"
     }
   },
-  "/docs-ece": {
+  "/docs-88d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-427": {
+  "/docs-06f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/bibliothèque-724": {
@@ -207,13 +207,9 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-en-savoir-pluscc-1-fbe"
   },
-  "/docs/category/tutorial---extras-f09": {
+  "/docs/category/usage-bae": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
-  },
-  "/docs/En-savoir-plus/Github-99e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-en-savoir-plus-github-3-cb-718"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-usage-121-36c"
   },
   "/docs/En-savoir-plus/glossaire-477": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -223,41 +219,89 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-en-savoir-plus-instruct-076-935"
   },
+  "/docs/En-savoir-plus/Paramètres-079": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-savoir-plus-parametres-2-fd-a01"
+  },
   "/docs/En-savoir-plus/Quantization-44f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-en-savoir-plus-quantizationd-3-d-742"
+  },
+  "/docs/En-savoir-plus/rag-2fa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-savoir-plus-rag-2-bf-466"
   },
   "/docs/intro-aed": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
+  "/docs/models-list/ecole-c00": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-models-list-ecole-79-c-c44"
+  },
+  "/docs/models-list/Général-a37": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-models-list-general-1-f-8-200"
+  },
+  "/docs/models-list/image-37a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-models-list-imageb-88-a4d"
+  },
   "/docs/models-list/Llama2-7a2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-models-list-llama-273-f-139"
-  },
-  "/docs/models-list/llama2-uncensored-1b8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-models-list-llama-2-uncensored-1-e-6-650"
   },
   "/docs/models-list/Llava-c00": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-models-list-llava-365-67c"
   },
+  "/docs/models-list/Médecin-a37": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-models-list-medecin-8-aa-036"
+  },
+  "/docs/models-list/medllama2-e76": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-models-list-medllama-2-e-27-03f"
+  },
   "/docs/models-list/Mixtral-26a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-models-list-mixtral-803-22c"
+  },
+  "/docs/models-list/texte-a47": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-models-list-textea-48-87d"
   },
   "/docs/models-list/TinyLlama-cde": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-models-list-tiny-llama-5-ac-d07"
   },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
+  "/docs/outils/Github-f17": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
+    "content": "content---docs-outils-github-971-569"
   },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
+  "/docs/outils/python-005": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+    "content": "content---docs-outils-pythonff-8-bdc"
+  },
+  "/docs/Usage/chatbox-2d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-usage-chatbox-21-a-5d9"
+  },
+  "/docs/Usage/Entrainer un modèle-865": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-usage-entrainer-un-modele-634-0a7"
+  },
+  "/docs/Usage/Import Modèle-523": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-usage-import-modele-7-f-0-370"
+  },
+  "/docs/Usage/ModelFile-a2e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-usage-model-file-868-2af"
+  },
+  "/docs/Usage/vs code-a70": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-usage-vs-code-475-ff2"
   },
   "/-351": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

@@ -99,15 +99,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '611'),
+    component: ComponentCreator('/docs', '4f8'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ece'),
+        component: ComponentCreator('/docs', '88d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '427'),
+            component: ComponentCreator('/docs', '06f'),
             routes: [
               {
                 path: '/docs/category/bibliothèque',
@@ -122,14 +122,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', 'f09'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/En-savoir-plus/Github',
-                component: ComponentCreator('/docs/En-savoir-plus/Github', '99e'),
+                path: '/docs/category/usage',
+                component: ComponentCreator('/docs/category/usage', 'bae'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -146,8 +140,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/En-savoir-plus/Paramètres',
+                component: ComponentCreator('/docs/En-savoir-plus/Paramètres', '079'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/En-savoir-plus/Quantization',
                 component: ComponentCreator('/docs/En-savoir-plus/Quantization', '44f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/En-savoir-plus/rag',
+                component: ComponentCreator('/docs/En-savoir-plus/rag', '2fa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -158,14 +164,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/models-list/Llama2',
-                component: ComponentCreator('/docs/models-list/Llama2', '7a2'),
+                path: '/docs/models-list/ecole',
+                component: ComponentCreator('/docs/models-list/ecole', 'c00'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/models-list/llama2-uncensored',
-                component: ComponentCreator('/docs/models-list/llama2-uncensored', '1b8'),
+                path: '/docs/models-list/Général',
+                component: ComponentCreator('/docs/models-list/Général', 'a37'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/models-list/image',
+                component: ComponentCreator('/docs/models-list/image', '37a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/models-list/Llama2',
+                component: ComponentCreator('/docs/models-list/Llama2', '7a2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -176,8 +194,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/models-list/Médecin',
+                component: ComponentCreator('/docs/models-list/Médecin', 'a37'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/models-list/medllama2',
+                component: ComponentCreator('/docs/models-list/medllama2', 'e76'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/models-list/Mixtral',
                 component: ComponentCreator('/docs/models-list/Mixtral', '26a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/models-list/texte',
+                component: ComponentCreator('/docs/models-list/texte', 'a47'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -188,14 +224,44 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'fdd'),
+                path: '/docs/outils/Github',
+                component: ComponentCreator('/docs/outils/Github', 'f17'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
+                path: '/docs/outils/python',
+                component: ComponentCreator('/docs/outils/python', '005'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Usage/chatbox',
+                component: ComponentCreator('/docs/Usage/chatbox', '2d7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Usage/Entrainer un modèle',
+                component: ComponentCreator('/docs/Usage/Entrainer un modèle', '865'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Usage/Import Modèle',
+                component: ComponentCreator('/docs/Usage/Import Modèle', '523'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Usage/ModelFile',
+                component: ComponentCreator('/docs/Usage/ModelFile', 'a2e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Usage/vs code',
+                component: ComponentCreator('/docs/Usage/vs code', 'a70'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

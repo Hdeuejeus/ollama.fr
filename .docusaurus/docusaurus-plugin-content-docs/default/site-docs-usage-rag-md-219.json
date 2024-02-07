@@ -1,0 +1,27 @@
+{
+  "id": "Usage/rag",
+  "title": "Rag",
+  "description": "- La Génération Augmentée de Récupération (RAG) est une technique utilisée en Intelligence Artificielle pour aider les machines à comprendre et à répondre aux questions en langage naturel, c’est-à-dire le langage que nous utilisons tous les jours.",
+  "source": "@site/docs/Usage/rag.md",
+  "sourceDirName": "Usage",
+  "slug": "/Usage/rag",
+  "permalink": "/docs/Usage/rag",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Usage/rag.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Usage",
+    "permalink": "/docs/category/usage"
+  },
+  "next": {
+    "title": "En savoir plus",
+    "permalink": "/docs/category/en-savoir-plus"
+  }
+}

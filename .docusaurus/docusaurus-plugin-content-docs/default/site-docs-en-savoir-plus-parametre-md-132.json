@@ -1,0 +1,23 @@
+{
+  "id": "En-savoir-plus/paramètre",
+  "title": "paramètre",
+  "description": "Paramètre",
+  "source": "@site/docs/En-savoir-plus/paramètre.md",
+  "sourceDirName": "En-savoir-plus",
+  "slug": "/En-savoir-plus/paramètre",
+  "permalink": "/docs/En-savoir-plus/paramètre",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/En-savoir-plus/paramètre.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "instruct",
+    "permalink": "/docs/En-savoir-plus/instruct"
+  }
+}
