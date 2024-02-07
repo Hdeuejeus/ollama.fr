@@ -1,0 +1,27 @@
+{
+  "id": "models-list/TinyLlama",
+  "title": "TinyLlama",
+  "description": "On doit trouver ici un petit modèle et expliquer pourquoi c'est sympa d'avoir un petit modèle et de pouvoir par exemple le faire tourner sur un Rabsperry PI.",
+  "source": "@site/docs/models-list/TinyLlama.md",
+  "sourceDirName": "models-list",
+  "slug": "/models-list/TinyLlama",
+  "permalink": "/docs/models-list/TinyLlama",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models-list/TinyLlama.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Llama2 par Meta",
+    "permalink": "/docs/models-list/Llama2"
+  },
+  "next": {
+    "title": "Llava",
+    "permalink": "/docs/models-list/Llava"
+  }
+}

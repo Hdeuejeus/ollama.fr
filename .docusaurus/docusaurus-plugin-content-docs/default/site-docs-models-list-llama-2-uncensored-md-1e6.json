@@ -1,0 +1,27 @@
+{
+  "id": "models-list/llama2-uncensored",
+  "title": "Llama2-uncensored",
+  "description": "Le modèle Llama2-uncensored permet l'utilisation de Llama2 sans aucune réstriction. Voici quelques points sur ce modèle:",
+  "source": "@site/docs/models-list/llama2-uncensored.md",
+  "sourceDirName": "models-list",
+  "slug": "/models-list/llama2-uncensored",
+  "permalink": "/docs/models-list/llama2-uncensored",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models-list/llama2-uncensored.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mixtral",
+    "permalink": "/docs/models-list/Mixtral"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

@@ -19,5 +19,9 @@
   "previous": {
     "title": "Glossaire",
     "permalink": "/docs/En-savoir-plus/glossaire"
+  },
+  "next": {
+    "title": "Quantization",
+    "permalink": "/docs/En-savoir-plus/Quantization"
   }
 }

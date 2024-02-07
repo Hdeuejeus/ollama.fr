@@ -1,0 +1,27 @@
+{
+  "id": "models-list/create-a-blog-post",
+  "title": "Llava",
+  "description": "*Le modèle Llava est basé sur des réseaux neuronaux et",
+  "source": "@site/docs/models-list/create-a-blog-post.md",
+  "sourceDirName": "models-list",
+  "slug": "/models-list/create-a-blog-post",
+  "permalink": "/docs/models-list/create-a-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/models-list/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TinyLlama",
+    "permalink": "/docs/models-list/TinyLlama"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/docs/models-list/markdown-features"
+  }
+}

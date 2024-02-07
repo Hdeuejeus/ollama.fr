@@ -18,54 +18,47 @@
       },
       {
         "type": "category",
-        "label": "LLM - Bibliothèque",
+        "label": "Bibliothèque",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Llama2 par Meta",
-            "href": "/docs/tutorial-basics/create-a-page",
-            "docId": "tutorial-basics/create-a-page",
+            "href": "/docs/models-list/Llama2",
+            "docId": "models-list/Llama2",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
-            "docId": "tutorial-basics/create-a-document",
+            "label": "TinyLlama",
+            "href": "/docs/models-list/TinyLlama",
+            "docId": "models-list/TinyLlama",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
-            "docId": "tutorial-basics/create-a-blog-post",
+            "label": "Llava",
+            "href": "/docs/models-list/Llava",
+            "docId": "models-list/Llava",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
-            "docId": "tutorial-basics/markdown-features",
+            "label": "Mixtral",
+            "href": "/docs/models-list/Mixtral",
+            "docId": "models-list/Mixtral",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
-            "docId": "tutorial-basics/deploy-your-site",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations",
-            "docId": "tutorial-basics/congratulations",
+            "label": "Llama2-uncensored",
+            "href": "/docs/models-list/llama2-uncensored",
+            "docId": "models-list/llama2-uncensored",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/llm---bibliothèque"
+        "href": "/docs/category/bibliothèque"
       },
       {
         "type": "category",
@@ -109,6 +102,20 @@
             "href": "/docs/En-savoir-plus/Github",
             "docId": "En-savoir-plus/Github",
             "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Quantization",
+            "href": "/docs/En-savoir-plus/Quantization",
+            "docId": "En-savoir-plus/Quantization",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "instruct",
+            "href": "/docs/En-savoir-plus/instruct",
+            "docId": "En-savoir-plus/instruct",
+            "unlisted": false
           }
         ],
         "href": "/docs/category/en-savoir-plus"
@@ -128,46 +135,52 @@
       "description": "On explique ici les termes techniques utilisés dans ce site",
       "sidebar": "tutorialSidebar"
     },
+    "En-savoir-plus/instruct": {
+      "id": "En-savoir-plus/instruct",
+      "title": "instruct",
+      "description": "- *Modèles Instruct …” et “### Assistant: …”. Pour certaines tâches ou domaines, les modèles Instruct peuvent être plus performants et plus fiables que les modèles non-Instruct. Pour plus d’informations, vous pouvez consulter ces ressources en ligne.*",
+      "sidebar": "tutorialSidebar"
+    },
+    "En-savoir-plus/Quantization": {
+      "id": "En-savoir-plus/Quantization",
+      "title": "Quantization",
+      "description": "Lorsqu'un LLM (Large Language Model) est disponible dans différentes versions",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "Introduction",
       "description": "Nous allons découvrir ensemble l'intelligence artificielle sur Mac.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/congratulations": {
-      "id": "tutorial-basics/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-blog-post": {
-      "id": "tutorial-basics/create-a-blog-post",
-      "title": "Create a Blog Post",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-document": {
-      "id": "tutorial-basics/create-a-document",
-      "title": "Create a Document",
-      "description": "Documents are groups of pages connected through:",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-page": {
-      "id": "tutorial-basics/create-a-page",
+    "models-list/Llama2": {
+      "id": "models-list/Llama2",
       "title": "Llama2 par Meta",
       "description": "*le LLM Llama2 est un modèle de langage naturel développé par des",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/deploy-your-site": {
-      "id": "tutorial-basics/deploy-your-site",
-      "title": "Deploy your site",
-      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+    "models-list/llama2-uncensored": {
+      "id": "models-list/llama2-uncensored",
+      "title": "Llama2-uncensored",
+      "description": "Le modèle Llama2-uncensored permet l'utilisation de Llama2 sans aucune réstriction. Voici quelques points sur ce modèle:",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/markdown-features": {
-      "id": "tutorial-basics/markdown-features",
-      "title": "Markdown Features",
-      "description": "Docusaurus supports Markdown and a few additional features.",
+    "models-list/Llava": {
+      "id": "models-list/Llava",
+      "title": "Llava",
+      "description": "*Le modèle Llava est basé sur des réseaux neuronaux et",
+      "sidebar": "tutorialSidebar"
+    },
+    "models-list/Mixtral": {
+      "id": "models-list/Mixtral",
+      "title": "Mixtral",
+      "description": "Mixtral est une intelligence artificielle (IA) avancée qui se distingue dans le monde de l’IA. Voici quelques points clés à propos de Mixtral :",
+      "sidebar": "tutorialSidebar"
+    },
+    "models-list/TinyLlama": {
+      "id": "models-list/TinyLlama",
+      "title": "TinyLlama",
+      "description": "TinyLlama est un modèle de langage compact et open-source qui se distingue dans le monde de l’intelligence artificielle. Voici quelques points clés à propos de TinyLlama :",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-extras/manage-docs-versions": {
